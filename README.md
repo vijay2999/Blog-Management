@@ -1,4 +1,4 @@
-# project01blogging
+# project blogging site
 Phase I
 Models
 ######
